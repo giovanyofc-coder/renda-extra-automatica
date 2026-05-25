@@ -1,2 +1,4 @@
-pip
-install -o binance-connector
+python-binance
+python-dotenv
+pandas
+numpy
